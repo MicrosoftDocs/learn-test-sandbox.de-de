@@ -1,0 +1,21 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox.path-1
+title: title of de-de
+summary: summary of de-de
+cardDescription: card description of de-de
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- business-user
+products:
+- bizapps-power-apps
+- bizapps-power-bi
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
+metadata:
+  title: title of de-de
+  description: description of de-de
+modules:
+- learn-test-sandbox.module-1
+trophy:
+  uid: learn-test-sandbox.path-1.trophy
